@@ -5,7 +5,7 @@ public class UserApp {
 		Employee e = new Employee(101,"jay",5000);
 		System.out.println(e);
 		System.out.println(e);
-		System.out.println(e);
+		
 	}
 
 }
